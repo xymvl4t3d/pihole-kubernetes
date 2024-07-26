@@ -224,9 +224,9 @@ entries:
       name: pihole
       sources:
         - https://github.com/MoJo2600/pihole-kubernetes/tree/master/charts/pihole
-        - https://pi-hole.net/
-        - https://github.com/pi-hole
-        - https://github.com/pi-hole/docker-pi-hole
+        # - https://pi-hole.net/
+        # - https://github.com/pi-hole
+        # - https://github.com/pi-hole/docker-pi-hole
       urls:
         - https://github.com/MoJo2600/pihole-kubernetes/releases/download/pihole-2.9.3/pihole-2.9.3.tgz
       version: 2.9.3
